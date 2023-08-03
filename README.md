@@ -1,4 +1,4 @@
-# coafb4221a20b2a124da5975c
+# Inspirational Quote Page
 
 Quick start:
 
